@@ -28,6 +28,7 @@ cask "1password-cli"
 cask "alfred"
 cask "appcleaner"
 cask "daisydisk"
+cask "deltawalker"
 cask "google-chrome"
 cask "iterm2"
 cask "now"
@@ -45,5 +46,3 @@ cask "tresorit"
 cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
-
-mas "Xcode", id: 497799835 
