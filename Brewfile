@@ -46,3 +46,8 @@ cask "tresorit"
 cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
+
+# Gross stuff I don't really want :O=
+cask "skype-for-business"
+cask "microsoft-office"
+cask "microsoft-teams"
