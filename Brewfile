@@ -16,6 +16,7 @@ brew "git"
 brew "git-flow"
 brew "jq"
 brew "lolcat"
+brew "mkcert"
 brew "node", link: false
 brew "now-cli"
 brew "php@7.2", link: true
